@@ -1,0 +1,14 @@
+C:\Users\juanm\Source\Lab\.NET Projects\clase1\clase1\obj\Debug\net8.0\clase1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\juanm\Source\Lab\.NET Projects\clase1\clase1\obj\Debug\net8.0\clase1.AssemblyInfoInputs.cache
+C:\Users\juanm\Source\Lab\.NET Projects\clase1\clase1\obj\Debug\net8.0\clase1.AssemblyInfo.cs
+C:\Users\juanm\Source\Lab\.NET Projects\clase1\clase1\obj\Debug\net8.0\clase1.csproj.CoreCompileInputs.cache
+C:\Users\juanm\Source\Lab\.NET Projects\clase1\clase1\bin\Debug\net8.0\clase1.exe
+C:\Users\juanm\Source\Lab\.NET Projects\clase1\clase1\bin\Debug\net8.0\clase1.deps.json
+C:\Users\juanm\Source\Lab\.NET Projects\clase1\clase1\bin\Debug\net8.0\clase1.runtimeconfig.json
+C:\Users\juanm\Source\Lab\.NET Projects\clase1\clase1\bin\Debug\net8.0\clase1.dll
+C:\Users\juanm\Source\Lab\.NET Projects\clase1\clase1\bin\Debug\net8.0\clase1.pdb
+C:\Users\juanm\Source\Lab\.NET Projects\clase1\clase1\obj\Debug\net8.0\clase1.dll
+C:\Users\juanm\Source\Lab\.NET Projects\clase1\clase1\obj\Debug\net8.0\refint\clase1.dll
+C:\Users\juanm\Source\Lab\.NET Projects\clase1\clase1\obj\Debug\net8.0\clase1.pdb
+C:\Users\juanm\Source\Lab\.NET Projects\clase1\clase1\obj\Debug\net8.0\clase1.genruntimeconfig.cache
+C:\Users\juanm\Source\Lab\.NET Projects\clase1\clase1\obj\Debug\net8.0\ref\clase1.dll

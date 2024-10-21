@@ -1,0 +1,16 @@
+[
+    {
+        "Id": 1,
+        "Name": "Juana Majuana",
+        "Company": "Rica",
+        "Salary": "1200USD",
+        "Residency": "RD"
+    },
+    {
+        "Id": 2,
+        "Name": "Alejandro",
+        "Company": "Banco Central",
+        "Salary": "5500USD",
+        "Residency": "US"
+    }
+]
